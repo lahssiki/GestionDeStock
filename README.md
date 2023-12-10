@@ -1,7 +1,7 @@
 # GestionDeStock
 GestionDeStock C# Entity framework
 
-Development Tools Used:
+#Development Tools Used:
 PowerAMC:
 PowerAMC is a modeling software that allows the modeling of computer processes and their associated databases. Originally created by SDP under the name AMC Designer and later acquired by PowerSoft, this software has been produced by Sybase since its acquisition by this editor in 1995. Outside of France, the international version is marketed by Sybase under the PowerDesigner brand.
 
